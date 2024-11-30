@@ -7,25 +7,7 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/simcoder)
 
 <!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/SimCoderYoutube/InstagramClone">
-    <img src="images/simcoder.png" alt="Logo" width="120" height="120">
-  </a>
-
   <h3 align="center">Instagram Clone</h3>
-
-  <p align="center">
-    A Instagram clone app made with React Native and firebase
-    <br />
-    <a href="https://github.com/SimCoderYoutube/InstagramClone/wiki"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/SimCoderYoutube/InstagramClone/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/SimCoderYoutube/InstagramClone/issues">Request Feature</a>
-  </p>
-</p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
